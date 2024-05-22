@@ -4,5 +4,5 @@
 
 Martes 21 de Mayo del 2024
 
-<a hred="https://laly01.github.io/ProyectoGansoNegro/"
+<a href="https://laly01.github.io/ProyectoGansoNegro/"
 target="_blank">ver sitio web</a>
